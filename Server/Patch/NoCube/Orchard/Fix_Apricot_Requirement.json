@@ -1,0 +1,12 @@
+{
+    "_BaseAssetPath": "Server/Item/Items/Plants/Fruit_Trees/NoCube_Plant_Sapling_Apricot.json",
+    "Recipe": {
+        "BenchRequirement": [
+            {
+                "_index": 0,
+                "_op": "merge",
+                "RequiredTierLevel": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "_BaseAssetPath": "Server/Item/Items/Ingredients/NoCube_Ingredient_Fine_Dough.json",
+    "Recipe": {
+        "Output": [
+            {
+                "_index": 0,
+                "_op": "merge",
+                "ItemId": "NoCube_Ingredient_Fine_Dough"
+            }
+        ]
+    }
+}

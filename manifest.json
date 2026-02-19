@@ -1,0 +1,21 @@
+{
+    "Group": "IroriPowered",
+    "Name": "FixNoCubesMods",
+    "Version": "1.0.0",
+    "Website": "https://www.irori.cc/",
+    "Description": "Fixes progression issues in NoCube's mod series.",
+    "Authors": [
+        {
+            "Name": "KabanFriends",
+            "Url": "https://github.com/KabanFriends"
+        }
+    ],
+    "ServerVersion": "2026.02.19-1a311a592",
+    "Dependencies": {
+        "com.hypersonicsharkz:Hytalor": ">=2.1"
+    },
+    "OptionalDependencies": {
+        "NoCube:[NoCube's] Orchard": ">=0.0.2",
+        "NoCube:[NoCube's] Bakehouse": ">=0.0.2"
+    }
+}
