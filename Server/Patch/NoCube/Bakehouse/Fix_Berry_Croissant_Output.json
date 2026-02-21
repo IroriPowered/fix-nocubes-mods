@@ -1,0 +1,18 @@
+{
+    "_BaseAssetPath": "Server/Item/Items/Food/NoCube_Food_Berry_Croissant.json",
+    "Recipe": {
+        "Output": [
+            {
+                "_index": 0,
+                "_op": "merge",
+                "ItemId": "NoCube_Food_Berry_Croissant"
+            },
+            {
+                "_index": 1,
+                "_op": "add",
+                "ItemId": "Container_Bucket",
+                "Quantity": 1
+            }
+        ]
+    }
+}

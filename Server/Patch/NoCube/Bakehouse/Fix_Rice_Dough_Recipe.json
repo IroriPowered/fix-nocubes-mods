@@ -6,6 +6,11 @@
                 "_index": 0,
                 "_op": "merge",
                 "ItemId": "NoCube_Ingredient_Rice_Dough"
+            },
+            {
+                "_index": 1,
+                "_op": "add",
+                "ItemId": "NoCube_Rolling_Pin"
             }
         ]
     }

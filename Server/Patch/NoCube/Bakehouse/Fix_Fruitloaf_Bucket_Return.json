@@ -1,0 +1,14 @@
+{
+    "_BaseAssetPath": "Server/Item/Items/Food/Done/NoCube_Food_Fruitloaf.json",
+    "Recipe": {
+        "Output": [
+            {
+                "ItemId": "NoCube_Food_Fruitloaf"
+            },
+            {
+                "ItemId": "Container_Bucket",
+                "Quantity": 1
+            }
+        ]
+    }
+}
