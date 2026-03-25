@@ -1,0 +1,11 @@
+{
+    "_BaseAssetPath": "Server/Item/Items/Bench/NoCube_Bench_Fruit_Press.json",
+    "BlockType": {
+        "BlockEntity": {
+            "Components": {
+                "BenchBlock": {},
+                "ProcessingBenchBlock": {}
+            }
+        }
+    }
+}

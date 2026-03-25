@@ -1,0 +1,11 @@
+{
+    "_BaseAssetPath": "Server/Item/Items/Bench/NoCube_Bench_Aging_Cask.json",
+    "BlockType": {
+        "BlockEntity": {
+            "Components": {
+                "BenchBlock": {},
+                "ProcessingBenchBlock": {}
+            }
+        }
+    }
+}

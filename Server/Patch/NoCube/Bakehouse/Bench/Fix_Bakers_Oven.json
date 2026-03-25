@@ -1,0 +1,10 @@
+{
+    "_BaseAssetPath": "Server/Item/Items/NoCube_Bench_Bakers_Oven.json",
+    "BlockType": {
+        "BlockEntity": {
+            "Components": {
+                "BenchBlock": {}
+            }
+        }
+    }
+}

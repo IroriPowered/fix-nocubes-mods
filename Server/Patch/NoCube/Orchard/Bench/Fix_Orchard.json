@@ -1,0 +1,10 @@
+{
+    "_BaseAssetPath": "Server/Item/Items/Bench/NoCube_Bench_Orchard.json",
+    "BlockType": {
+        "BlockEntity": {
+            "Components": {
+                "BenchBlock": {}
+            }
+        }
+    }
+}

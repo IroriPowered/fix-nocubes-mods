@@ -16,6 +16,7 @@
     },
     "OptionalDependencies": {
         "NoCube:[NoCube's] Orchard": ">=0.0.2",
-        "NoCube:[NoCube's] Bakehouse": ">=0.0.2"
+        "NoCube:[NoCube's] Bakehouse": ">=0.0.2",
+        "NoCube:[NoCube's] Tavern": ">=0.0.3"
     }
 }

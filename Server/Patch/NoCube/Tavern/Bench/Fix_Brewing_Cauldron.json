@@ -1,0 +1,11 @@
+{
+    "_BaseAssetPath": "Server/Item/Items/Bench/NoCube_Bench_Brewing_Cauldron.json",
+    "BlockType": {
+        "BlockEntity": {
+            "Components": {
+                "BenchBlock": {},
+                "ProcessingBenchBlock": {}
+            }
+        }
+    }
+}
